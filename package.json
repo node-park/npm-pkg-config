@@ -1,0 +1,16 @@
+{
+  "name": "npm-pkg-config",
+  "version": "1.0.0",
+  "description": "验证：通过配置package.json config 注入环境变量",
+  "main": "index.js",
+  "scripts": {
+    "test": "node src/index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "config": {
+    "name":"npm-pkg-config",
+    "prot":90001
+  }
+}
